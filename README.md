@@ -70,11 +70,11 @@ To adapt this skill to your own profile, open `SKILL.md` and update the section 
 
 ## About
 
-Built by **Joha** — Project Manager exploring the intersection of AI, UX, and product strategy.
+Built by **Johanna Giselle Herrera** — Project Manager exploring the intersection of AI, UX, and product strategy.
 
 Currently learning: Claude Skills · MCPs · Claude Code
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/johanna-giselle-herrera/)
 
 ---
 
